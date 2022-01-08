@@ -1,0 +1,5 @@
+public class UseSourceClass {
+    public static void main(String args[]){
+        System.out.println(SourceClass.SourceClass());
+    }
+}
